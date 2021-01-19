@@ -13,6 +13,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rashi-pathak) | [Twitter](https://twitter.com/RashiPathak11) | [Medium](https://www.medium.com/@raship19)
- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 <!--- ⚡ Fun fact: ...
 -->
