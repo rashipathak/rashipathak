@@ -1,5 +1,6 @@
 ### Hi there 👋
 #### I am Rashi Pathak.
+- ![Visitor Count](https://profile-counter.glitch.me/{rashipathak}/count.svg)
 
 <!--
 **rashipathak/rashipathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
