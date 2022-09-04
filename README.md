@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashi Pathak</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [rashipathak](https://github.com/rashipathak)
+<!-- - 👨‍💻 All of my projects are available at [rashipathak](https://github.com/rashipathak)-->
 
 - 📫 How to reach me **raship9119@gmail.com**
 
