@@ -1,7 +1,8 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Rashi Pathak</h1>
 <h3 align="center">Frontend Developer</h3>
 # About Me 👩🏻‍💻
-- 👨‍💻 All of my projects are available at [rashipathak](https://github.com/rashipathak)
+<br>
+- 👩🏻‍💻 All of my projects are available at [rashipathak](https://github.com/rashipathak)
 
 - 📫 How to reach me **raship9119@gmail.com**
 
@@ -19,33 +20,32 @@
   <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
-
 # My Technical Skills
 
 ## Programming Languages
-![Java](https://img.shields.io/badge/Java-Expert-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-brightgreen)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
 
 ## Web Development
-![HTML5](https://img.shields.io/badge/HTML5-Expert-brightgreen)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-brightgreen)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-yellow)
-![Angular](https://img.shields.io/badge/Angular-Intermediate-yellow)
-![React.js](https://img.shields.io/badge/React.js-Intermediate-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
 
 ## Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-Expert-brightgreen)
-![Express.js](https://img.shields.io/badge/Express.js-Expert-brightgreen)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
 
 ## Tools and Platforms
-![Git](https://img.shields.io/badge/Git-Expert-brightgreen)
-![GitHub](https://img.shields.io/badge/GitHub-Expert-brightgreen)
-![Google Cloud Platform](https://img.shields.io/badge/GCP-Intermediate-yellow)
-![Figma](https://img.shields.io/badge/Figma-Intermediate-yellow)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 
 
 <h3 align="left">Connect with me:</h3>
