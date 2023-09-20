@@ -15,7 +15,7 @@
 <a href="https://medium.com/@raship19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raship19" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Technical Skills</h3>
+<h3>Technical Skills</h3>
 
 
 
