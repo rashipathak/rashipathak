@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rashi Pathak</h1>
+<h1 align="center">Hi 🙋‍♀️, I'm Rashi Pathak</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 👨‍💻 All of my projects are available at [rashipathak](https://github.com/rashipathak)
@@ -50,8 +50,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   </p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashipathak&label=Profile%20views&color=0e75b6&style=flat" alt="rashipathak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashipathak" alt="rashipathak" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rashipathak11" target="blank"><img src="https://img.shields.io/twitter/follow/rashipathak11?logo=twitter&style=for-the-badge" alt="rashipathak11" /></a> </p>
 
