@@ -1,11 +1,52 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Rashi Pathak</h1>
 <h3 align="center">Frontend Developer</h3>
-
+# About Me 👩🏻‍💻
 - 👨‍💻 All of my projects are available at [rashipathak](https://github.com/rashipathak)
 
 - 📫 How to reach me **raship9119@gmail.com**
 
 <!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wVmrEnXZtZ9FzMYdfYOdp-OHiV1xG17J/view?usp=sharing)-->
+
+<h3>Technical Skills</h3>
+<p align="centre">
+  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+
+# My Technical Skills
+
+## Programming Languages
+![Java](https://img.shields.io/badge/Java-Expert-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
+
+## Web Development
+![HTML5](https://img.shields.io/badge/HTML5-Expert-brightgreen)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-brightgreen)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-yellow)
+![Angular](https://img.shields.io/badge/Angular-Intermediate-yellow)
+![React.js](https://img.shields.io/badge/React.js-Intermediate-yellow)
+
+## Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-Expert-brightgreen)
+![Express.js](https://img.shields.io/badge/Express.js-Expert-brightgreen)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-yellow)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
+
+## Tools and Platforms
+![Git](https://img.shields.io/badge/Git-Expert-brightgreen)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-brightgreen)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-Intermediate-yellow)
+![Figma](https://img.shields.io/badge/Figma-Intermediate-yellow)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,19 +55,6 @@
 <a href="https://instagram.com/_rashipathak_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rashipathak_" height="30" width="40" /></a>
 <a href="https://medium.com/@raship19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raship19" height="30" width="40" /></a>
 </p>
-
-<h3>Technical Skills</h3>
-  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 
 
